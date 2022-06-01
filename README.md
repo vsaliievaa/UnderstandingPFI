@@ -1,6 +1,7 @@
 # UnderstandingPFI
 
-This is the repository for the Econometrics course project.
+This is the repository for the Econometrics course project, completed by BA students Olesia Nedopas and Vira Saliieva.
+![alt text]((https://github.com/vsaliievaa/UnderstandingPFI/blob/main/PFIchart.jpg?raw=true)
 
 ## Problem
 Globally, the past decade was characterized by the increasing restrictions on media and journalism in many countries. The enormous amounts of information and news fuel divisions even in democratic societies both on a national and international level. The increasing online presence becomes the ground for spreading fakes and bias, as well as an opportunity for authoritarian regimes to suppress freedom of speech and belief in their states.
